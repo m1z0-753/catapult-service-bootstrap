@@ -12,7 +12,7 @@ shouldEnableVerifiableReceipts = {{should_enable_verifiable_receipts}}
 currencyMosaicId = {{{currency_mosaic_id}}}
 harvestingMosaicId = {{{harvesting_mosaic_id}}}
 
-blockGenerationTargetTime = 15s
+blockGenerationTargetTime = 5s
 blockTimeSmoothingFactor = 3000
 
 importanceGrouping = 39
