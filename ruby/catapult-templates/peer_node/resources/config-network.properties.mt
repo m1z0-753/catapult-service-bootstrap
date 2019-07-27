@@ -17,7 +17,7 @@ blockTimeSmoothingFactor = 3000
 
 importanceGrouping = 39
 importanceActivityPercentage = 5
-maxRollbackBlocks = 40
+maxRollbackBlocks = 2
 maxDifficultyBlocks = 60
 
 maxTransactionLifetime = 24h
