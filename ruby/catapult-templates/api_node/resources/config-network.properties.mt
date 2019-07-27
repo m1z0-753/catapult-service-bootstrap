@@ -66,7 +66,7 @@ maxMosaicDuration = 3650d
 maxMosaicDivisibility = 6
 
 mosaicRentalFeeSinkPublicKey = {{mosaic_rental_fee_sink_public_key}}
-mosaicRentalFee = 500'000'000
+mosaicRentalFee = 0
 
 [plugin:catapult.plugins.multisig]
 
@@ -84,8 +84,8 @@ namespaceGracePeriodDuration = 0d
 reservedRootNamespaceNames = xem, nem, user, account, org, com, biz, net, edu, mil, gov, info
 
 namespaceRentalFeeSinkPublicKey = {{namespace_rental_fee_sink_public_key}}
-rootNamespaceRentalFeePerBlock = 1'000'000
-childNamespaceRentalFee = 100'000'000
+rootNamespaceRentalFeePerBlock = 0
+childNamespaceRentalFee = 0
 
 maxChildNamespaces = 500
 
