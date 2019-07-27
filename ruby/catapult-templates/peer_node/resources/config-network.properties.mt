@@ -79,7 +79,7 @@ maxCosignedAccountsPerAccount = 5
 maxNameSize = 64
 
 # *approximate* days based on blockGenerationTargetTime
-maxNamespaceDuration = 365d
+maxNamespaceDuration = 365000d
 namespaceGracePeriodDuration = 0d
 reservedRootNamespaceNames = xem, nem, user, account, org, com, biz, net, edu, mil, gov, info
 
